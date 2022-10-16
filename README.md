@@ -1,4 +1,4 @@
-[![yamdb_workflow](https://github.com/reztsovdimitrii/yamdb_final/workflows/yamdb_workflow/badge.svg)](https://github.com/reztsovdimitrii/yamdb_final/actions/workflows/yamdb_workflow.yml)
+![yamdb_workflow](https://github.com/reztsovdimitrii/yamdb_final/workflows/yamdb_final%20workflow/badge.svg?branch=master)
 ## Учебный проект 16 спринта. CI/CD для проекта API YAMDB.
 
 ### Cтек технологий:
