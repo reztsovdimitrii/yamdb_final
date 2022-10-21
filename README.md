@@ -80,5 +80,6 @@ infra/.env.template
 Резцов Дмитрий [reztsovdimitrii](https://github.com/reztsovdimitrii)
 
 ### Примеры запросов:
-http://51.250.82.176/redoc/
-http://51.250.82.176/admin/
+http://51.250.102.111/redoc/
+http://51.250.102.111/admin/
+http://51.250.102.111/api/v1/
